@@ -6,7 +6,7 @@ Listen to device orientation changes in React Native applications and programmat
 ## Installing
 
 ```
-npm install react-native-orientation --save
+npm install https://github.com/900eTrip/react-native-orientation --save
 ```
 
 ## Linking Native Dependencies
